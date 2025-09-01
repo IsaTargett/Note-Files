@@ -1,0 +1,1 @@
+duoble click to save a note instead of single click
